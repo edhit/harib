@@ -40,7 +40,7 @@ const closeTest = () => {
 
     <!-- ОСНОВНОЙ КОНТЕНТ -->
     <main class="home-screen">
-<     <header class="content-header">
+      <header class="content-header">
         <h1 class="main-title">قائمة الأجزاء</h1>
         <div class="hadith-container">
           <p class="arabic-hadith">«خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ»</p>
